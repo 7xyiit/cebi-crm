@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "maintenance": true,
+  "maintenance": false,
   "updateMessage": "Uygulamanızın yeni bir sürümü mevcut. Yeni özellikler ve hata düzeltmeleri için lütfen güncelleyin.",
   "maintenanceMessage": "Sistem şu anda bakım modunda. Daha iyi hizmet verebilmek için sistem güncellemesi yapılıyor. Lütfen daha sonra tekrar deneyin."
 } 
